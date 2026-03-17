@@ -10,7 +10,7 @@ For additional information and contact details, see  https://www.lut.fi/en/proje
 
 ## Requirements
 
-Python with the following packages:
+Python3 with the following packages:
 pyomo
 pandas
 numpy
